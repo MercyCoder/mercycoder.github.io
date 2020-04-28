@@ -1,0 +1,118 @@
+
+
+  
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive|Cinzel+Decorative|Syncopate|Caveat|Pinyon+Script|Poiret+One&display=swap');
+
+.App {
+  text-align: center;
+
+}
+.Resume{
+  width: 80vw;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.resume_title {
+  vertical-align: bottom;
+  text-align: center;
+  padding-top: 3px;
+  margin-top: auto;
+
+}
+.language {
+  
+}
+.resume {
+  text-align: left;
+  margin-right: 25px;
+}
+.p {
+  width: 80vw;
+}
+h2 {
+  text-align: left;
+  color: slategrey;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 1px;
+
+
+}
+h3 {
+  font-size: 16pt;
+  font-family: 'Arial';
+  width: 82vw;
+  color: slategrey;
+  align-content: center;
+}
+h5 {
+  width: 75vw;
+}
+.potentialities {
+  color: slategray;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 10pt;
+}
+.up_arrow {
+  color: grey;
+  font-family: 'Cinzel Decorative', cursive;
+  bottom: 10px;
+}
+.down_arrow {
+  color: grey;
+  font-family: 'Poiret One', cursive;
+}
+.intro {
+  font-family: 'Pinyon Script', cursive;
+  margin-top: 2em;
+  margin-bottom: 3vw;
+  display: inline-block;
+}
+.intro_mirror {
+    font-family: 'Pinyon Script', cursive;
+    display: inline-block;
+    transform: scaleX(-1); 
+    filter: FlipH; /* IE 6-7-8 */
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+}
+.ercy_dhne {
+  font-family: 'Syncopate', sans-serif;
+  font-size: 30pt;
+  line-height: 160px;
+  padding-bottom: 2em;
+}
+.M_R {
+  font-size: 45pt;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 60px;
+}
+.O {
+  font-size: 55pt;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 50px;
+}
+.position {
+  color: slategray;
+}
+.empty_space {
+  height: 8vw;
+}
+.buffer{
+  height: 8vw;
+}
+a {
+  color: slategrey;
+
+}
+.dates {
+  float: right;
+  margin-right: 25px;
+}
+a:visited {
+  color: slategrey;
+}
+hr {
+  color: slategrey;
+  border-top: solid;
+}
