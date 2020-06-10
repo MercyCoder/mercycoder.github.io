@@ -1,0 +1,59 @@
+.App {
+  text-align: left;
+  margin: 50px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.fade
+{
+  opacity:0.5;
+}
+.fade:hover
+{
+  opacity:1;
+}
+h1 { 
+  color: aliceblue;
+  font-family: Helvetica; 
+  font-size: 30px; 
+  font-style: bold; 
+  font-variant: normal; 
+  font-weight: 150; 
+  line-height: 23px; 
+} 
+
+h3 {
+  font-family: Helvetica; 
+  font-size: 17px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 100; 
+  line-height: 23px; 
+} 
+
+p { 
+  color: aliceblue;
+  font-family: Helvetica; 
+  font-size: 16px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 100; 
+  line-height: 23px; 
+} 
+
+.contact {
+  color: rgb(144, 117, 157);
+  margin-top: 45vh;
+}
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,15 @@
+.app{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.dev { 
+    color: aliceblue;
+    font-family: Helvetica; 
+    font-size: 16px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 100; 
+    line-height: 23px; 
+    
+  } 
