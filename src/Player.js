@@ -13,7 +13,7 @@ class Player extends React.Component
 
     Open = () => {
         if (this.state.open === false) {
-            this.setState({ open: true, gitLink: "| IMPROV!" })
+            this.setState({ open: true, gitLink: " | IMPROV!" })
             console.log("HI")
         }
         else {
@@ -25,7 +25,7 @@ class Player extends React.Component
     render(){
         return(
         <div className="dev" onClick={this.Open}>
-        <div>Player {this.state.gitLink}</div>
+        <div>Comedian {this.state.gitLink}</div>
         </div>
         )
     }

@@ -13,3 +13,10 @@
     line-height: 23px; 
     
   } 
+
+.github {
+    color: aliceblue;
+}
+.github:hover {
+    color: rgb(234, 0, 255) 
+}
