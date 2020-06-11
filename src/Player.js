@@ -13,12 +13,10 @@ class Player extends React.Component
 
     Open = () => {
         if (this.state.open === false) {
-            this.setState({ open: true, gitLink: " | IMPROV!" })
-            console.log("HI")
+            this.setState({ open: true, gitLink: " ----------------------------------------------> <if (!joke) {this.inside = joke}" })
         }
         else {
             this.setState({ open: false, gitLink: "" })
-            console.log("BYE")      
         }
     }
 

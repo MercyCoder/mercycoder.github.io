@@ -18,11 +18,11 @@ function App() {
             <Developer />
           </p>
         </div>
-        <div id="writer">
+        {/* <div id="writer">
           <p className="title">
             <Writer />
           </p>
-        </div>
+        </div> */}
         <div id="player">
           <p className="title">
             <Player />
