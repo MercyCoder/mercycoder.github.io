@@ -13,21 +13,23 @@ function App() {
           <h1>MERCY</h1>
           <h1>ODHNER</h1>
         </div>
-        <div id="dev">
-          <Developer />
+        <div id="dev" >
+          <p>
+            <Developer />
+          </p>
         </div>
         <div id="writer">
-          <p>
+          <p className="title">
             <Writer />
           </p>
         </div>
         <div id="player">
-          <p>
+          <p className="title">
             <Player />
           </p>
         </div>
         <div id="linguist">
-          <p>
+          <p className="title">
             <Linguist />
           </p>
           <div className="contact">

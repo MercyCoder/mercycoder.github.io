@@ -1,10 +1,14 @@
 .App {
   text-align: left;
   margin: 50px;
+  min-height: 500px;
+}
+.title {
+  
 }
 
-.App-header {
-  background-color: #282c34;
+.pop-out {
+  background-color: transparent;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -52,7 +56,10 @@ p {
 
 .contact {
   color: rgb(144, 117, 157);
-  margin-top: 45vh;
+  margin-bottom: 5vh;
+  margin-top: 50vh;
+  position: absolute;
+  bottom: 0;
 }
 a {
   text-decoration: none;

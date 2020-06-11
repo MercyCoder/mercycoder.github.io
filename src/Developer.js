@@ -13,7 +13,7 @@ class Developer extends React.Component
 
     Open = () => {
         if (this.state.open === false) {
-            this.setState({ open: true, gitLink: <a className="github" href="https://github.com/MercyCoder">GitHub</a> })
+            this.setState({ open: true, gitLink: <a className="github" target="_blank" href="https://github.com/MercyCoder"> | GitHub</a> })
             console.log("HI")
         }
         else {
